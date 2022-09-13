@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.exe
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.deps.json
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.dll
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\ref\array-sinifi-metodlari.dll
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.pdb
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.dll
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\ref\array-sinifi-metodlari.dll
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.pdb
+C:\Users\Pc\Documents\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.genruntimeconfig.cache
