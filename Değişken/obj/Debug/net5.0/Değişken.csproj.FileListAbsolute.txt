@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.exe
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.deps.json
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.dll
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\ref\Değişken.dll
+C:\Users\Pc\Documents\Pratikler\Değişken\bin\Debug\net5.0\Değişken.pdb
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.dll
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\ref\Değişken.dll
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.pdb
+C:\Users\Pc\Documents\Pratikler\Değişken\obj\Debug\net5.0\Değişken.genruntimeconfig.cache
