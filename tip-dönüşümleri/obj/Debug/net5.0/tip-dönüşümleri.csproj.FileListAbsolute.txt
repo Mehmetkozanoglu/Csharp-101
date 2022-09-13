@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.exe
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.deps.json
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.dll
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\ref\tip-dönüşümleri.dll
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\bin\Debug\net5.0\tip-dönüşümleri.pdb
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.dll
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\ref\tip-dönüşümleri.dll
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.pdb
+C:\Users\Pc\Documents\Pratikler\tip-dönüşümleri\obj\Debug\net5.0\tip-dönüşümleri.genruntimeconfig.cache
