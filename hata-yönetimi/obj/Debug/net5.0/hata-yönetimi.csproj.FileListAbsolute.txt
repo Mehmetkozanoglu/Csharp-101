@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.exe
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.deps.json
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.dll
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\ref\hata-yönetimi.dll
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.pdb
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.dll
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\ref\hata-yönetimi.dll
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.pdb
+C:\Users\Pc\Documents\Pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.genruntimeconfig.cache
