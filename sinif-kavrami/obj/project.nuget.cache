@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcvQ8q3GkL5M/FBGT+LDlmQK5KpMSvLwlJrZiEWLs/WauCTkRNq484GwUUFKEVD7+3AxC+XWXlCYbMKFf7HMnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Documents\\Pratikler\\sinif-kavrami\\sinif-kavrami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
