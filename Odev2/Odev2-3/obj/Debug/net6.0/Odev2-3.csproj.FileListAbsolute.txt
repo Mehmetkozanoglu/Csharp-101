@@ -1,0 +1,15 @@
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\bin\Debug\net6.0\Odev2-3.exe
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\bin\Debug\net6.0\Odev2-3.deps.json
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\bin\Debug\net6.0\Odev2-3.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\bin\Debug\net6.0\Odev2-3.dll
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\bin\Debug\net6.0\Odev2-3.pdb
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.dll
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\refint\Odev2-3.dll
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.pdb
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\Odev2-3.genruntimeconfig.cache
+C:\Users\Pc\Documents\Pratikler\Odev2\Odev2-3\obj\Debug\net6.0\ref\Odev2-3.dll
