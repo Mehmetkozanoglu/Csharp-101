@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RsDtSTM+ArCyAQE8Ftk7UIvHRAyvCCdmSj+aCmh12/VePc4MOfkVJnuB8oD5Ym+sZnR+pPtRoc5Vx8cNJ7svw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Documents\\Pratikler\\kurucu-metotlar\\kurucu-metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
