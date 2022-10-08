@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eXwg7WShPO0Zh10OAzcQOvetJ95oWkdHoiHT0Qodf3GxFFextz0C7ImR2ObvtsBn53SHaM6DDNTNfI6fsK/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Documents\\Pratikler\\static-sinif-ve-uyeler\\static-sinif-ve-uyeler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
