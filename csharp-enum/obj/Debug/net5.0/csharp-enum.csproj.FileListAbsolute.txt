@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+C:\Users\Pc\Documents\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\refint\csharp-enum.dll
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
+C:\Users\Pc\Documents\Pratikler\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
