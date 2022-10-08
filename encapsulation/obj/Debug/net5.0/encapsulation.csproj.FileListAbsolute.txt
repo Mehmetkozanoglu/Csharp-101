@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\Pc\Documents\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+C:\Users\Pc\Documents\Pratikler\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll

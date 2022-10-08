@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGXMV6MuJL4zKYtMKGckeIgj/NU2DCtJFUwkQxKSX2HJg3BGf9cHp6A2TT10iqbvsrNIZzsbqsvKymB3tRxl0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Documents\\Pratikler\\encapsulation\\encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
